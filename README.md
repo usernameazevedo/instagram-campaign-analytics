@@ -77,6 +77,11 @@ python3 tools/html_deck_to_pdf.py deck.html saida.pdf
 - Insights (views, shares, saved) exigem que você administre a conta
 - business_discovery não enxerga contas pessoais
 
+## Author
+
+Built by **Luis Azevedo** — available for freelance / consulting work on video, short-form content, and automation.
+📬 [username.azevedo@gmail.com](mailto:username.azevedo@gmail.com)
+
 ## Licença
 
 MIT
