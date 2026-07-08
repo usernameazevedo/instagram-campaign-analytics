@@ -1,0 +1,21 @@
+{
+  "_comentario": "Copie para data/gold/<username>_campanhas_config.json. A classificacao testa as campanhas NA ORDEM: coloque primeiro as de keywords mais especificas. Keywords sao comparadas sem acentos e em minusculas contra a legenda do post.",
+  "inicio_periodo": "2025-12-08",
+  "campanhas": [
+    {
+      "id": "copa",
+      "nome": "Copa do Mundo 2026",
+      "keywords": ["copa do mundo", "copa", "entra em campo", "rodada | jogo", "torcer pelo brasil"]
+    },
+    {
+      "id": "festival",
+      "nome": "Festival de exemplo",
+      "keywords": ["festival", "#nomedofestival"]
+    },
+    {
+      "id": "aniversario",
+      "nome": "Aniversario da marca",
+      "keywords": ["aniversario", "5 anos"]
+    }
+  ]
+}

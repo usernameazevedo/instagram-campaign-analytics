@@ -1,0 +1,11 @@
+.env
+data/
+output/
+__pycache__/
+.venv/
+relatorio/assets/
+relatorio/charts/
+*.pptx
+*.pdf
+*.html
+node_modules/
