@@ -100,7 +100,7 @@ Adapted from [Analise_instagram](https://github.com/GabrielGalani/Analise_instag
 ## Author
 
 Built by **Luis Azevedo** — available for freelance / consulting work on video, short-form content, and automation.
-📬 [username.azevedo@gmail.com](mailto:username.azevedo@gmail.com)
+📬 [contato@midianoxx.com](mailto:contato@midianoxx.com)
 
 ## License
 
